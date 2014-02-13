@@ -1,0 +1,36 @@
+{
+  "family": "lynzz",
+  "name": "jcrop",
+  "version": "0.9.12",
+  "description": "jcrop",
+  "docs": "http://deepliquid.com/content/Jcrop_Manual.html",
+  "demo": "http://deepliquid.com/content/Jcrop_Examples.html",
+  "homepage": "https://github.com/tapmodo/Jcrop",
+  "author": "tapmodo",
+  "maintainers": [
+    "lynzz"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/lynzz/cmdjs.git"
+  },
+  "bugs": {
+    "url": ""
+  },
+  "dependencies": {
+    "jquery": "*"
+  },
+  "keywords": [],
+  "licenses": "MIT",
+  "spm": {
+    "alias": {
+      "$": "$"
+    },
+    "output": [
+      "jcrop.js",
+      "jcrop.css"
+    ],
+    "devAlias": {},
+    "engines": {}
+  }
+}
